@@ -1,4 +1,4 @@
-# :art:  Animated Login Screen
+#  Animated Login Screen
 
 
 
